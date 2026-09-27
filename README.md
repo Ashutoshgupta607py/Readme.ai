@@ -138,5 +138,6 @@ A: The application captures HTTP status codes (such as 401 Unauthorized, 402 Pay
 ## Credits
 
 * **CustomTkinter**: GUI library used for modern desktop interface components.
-* **PyInstaller**: Packaging tool used to compile the project into `dist/ReadmeAI.exe`.
-**note:** works best with gemini
+* **PyInstaller**: Packaging tool used to compile the project into `dist/ReadmeAI.exe
+
+**Note:** It works best with gemini 3.6 flash
